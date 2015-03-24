@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="game.libretro.beetle-supergrafx"
+		name="SGX (beetle)"
+		version="1.0.1"
+		provider-name="Libretro">
+	<requires>
+		<import addon="game.libretro" version="1.0.0"/>
+	</requires>
+	<extension point="kodi.gameclient"
+                   library_android="game.libretro.beetle-supergrafx.so"
+                   library_linux="game.libretro.beetle-supergrafx.so"
+                   library_osx="game.libretro.beetle-supergrafx.dylib"
+                   library_windx="game.libretro.beetle-supergrafx.dll"
+                   library_wingl="game.libretro.beetle-supergrafx.dll">
+		<platforms>SGX</platforms>
+		<extensions>sgx</extensions>
+		<supports_vfs>true</supports_vfs>
+		<supports_no_game>false</supports_no_game>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Beetle-supergrafx v1.0.1</summary>
+		<description>Source: https://github.com/libretro/beetle-supergrafx-libretro</description>
+		<platform>all</platform>
+	</extension>
+</addon>
