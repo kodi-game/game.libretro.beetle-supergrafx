@@ -1,10 +1,7 @@
+cmake_minimum_required(VERSION 3.1)
 project(game.libretro.beetle-supergrafx)
 
-cmake_minimum_required(VERSION 2.6)
-
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
-
-enable_language(CXX)
 
 find_package(Kodi REQUIRED)
 
@@ -40,9 +37,7 @@ externalproject_add(beetle-supergrafx
                     BUILD_IN_SOURCE 1)
 
 set(BEETLESGX_CUSTOM_BINARY ${PROJECT_BINARY_DIR}/beetle-supergrafx/src/beetle-supergrafx/mednafen_supergrafx_libretro${CMAKE_SHARED_LIBRARY_SUFFIX}
-                            game.libretro.beetle-supergrafx${CMAKE_SHARED_LIBRARY_SUFFIX} beetle-supergrafx)
+                            ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
 
-build_addon(game.libretro.beetle-supergrafx BEETLESGX DEPLIBS)
-add_dependencies(game.libretro.beetle-supergrafx beetle-supergrafx)
-
-include(CPack)
+build_addon(${PROJECT_NAME} BEETLESGX DEPLIBS)
+add_dependencies(${PROJECT_NAME} beetle-supergrafx)
