@@ -9,7 +9,7 @@
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
 		<platforms>SGX</platforms>
-		<extensions>pce|sgx|cue|ccd</extensions>
+		<extensions>pce|sgx|cue|ccd|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_keyboard>false</supports_keyboard>
@@ -19,7 +19,7 @@
 		<summary lang="en">PC Engine SuperGrafx (Beetle SGX) v0.9.38.7</summary>
 		<description>Source: https://github.com/libretro/beetle-supergrafx-libretro
 
-Supported files: .pce, .sgx, .cue, .ccd</description>
+Supported files: .pce, .sgx, .cue, .ccd, .chd</description>
 		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<assets>
