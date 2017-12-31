@@ -65,22 +65,26 @@ msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30012"
-msgid "No Sprite Limit (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30013"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "No Sprite Limit (Restart)"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Turbo Delay"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Turbo ON/OFF Toggle"
+msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30016"
+msgid "Turbo ON/OFF Toggle"
+msgstr ""
+
+msgctxt "#30017"
 msgid "Alternate Turbo Hotkey"
 msgstr ""
 
