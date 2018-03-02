@@ -15,8 +15,8 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">NEC - PC Engine SuperGrafx (Beetle SGX) v0.9.41</summary>
-		<description>Source: https://github.com/libretro/beetle-supergrafx-libretro
+		<summary lang="en_GB">NEC - PC Engine SuperGrafx (Beetle SGX) v0.9.41</summary>
+		<description lang="en_GB">Source: https://github.com/libretro/beetle-supergrafx-libretro
 
 Supported files: .pce, .sgx, .cue, .ccd, .chd</description>
 		<license>GPLv2</license>
