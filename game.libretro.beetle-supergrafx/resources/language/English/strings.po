@@ -49,42 +49,50 @@ msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Force SuperGrafx Emulation (Restart)"
+msgid "Allow Soft Reset(RUN+SELECT)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Horizontal Overscan (352 Width Mode Only)"
+msgid "Force SuperGrafx Emulation (Restart)"
 msgstr ""
 
 msgctxt "#30010"
-msgid "Initial scanline"
+msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Last scanline"
+msgid "Initial scanline"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Mouse Sensitivity"
+msgid "Last scanline"
 msgstr ""
 
 msgctxt "#30013"
-msgid "No Sprite Limit (Restart)"
+msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30014"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "No Sprite Limit (Restart)"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Turbo Delay"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Turbo ON/OFF Toggle"
+msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30017"
+msgid "Turbo ON/OFF Toggle"
+msgstr ""
+
+msgctxt "#30018"
 msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30019"
+msgid "Allow UP+DOWN/LEFT+RIGHT"
 msgstr ""
 
