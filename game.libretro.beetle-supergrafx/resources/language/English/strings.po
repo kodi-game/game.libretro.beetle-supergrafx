@@ -49,7 +49,7 @@ msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Allow Soft Reset(RUN+SELECT)"
+msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr ""
 
 msgctxt "#30009"
