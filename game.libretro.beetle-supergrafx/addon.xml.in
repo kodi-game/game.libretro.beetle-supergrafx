@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-supergrafx"
 		name="NEC - PC Engine SuperGrafx (Beetle SGX)"
-		version="0.9.41"
+		version="0.9.41.0"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
