@@ -1,1 +1,1 @@
-beetle-supergrafx https://github.com/libretro/beetle-supergrafx-libretro/archive/a8f924e9ef062b40248560d2eb9c797f2729dbb7.zip
+beetle-supergrafx https://github.com/libretro/beetle-supergrafx-libretro/archive/c92d975f4e572b84a219e96573a92e17af21dbe7.zip
