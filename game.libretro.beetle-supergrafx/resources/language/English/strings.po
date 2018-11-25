@@ -95,4 +95,3 @@ msgstr ""
 msgctxt "#30019"
 msgid "Allow UP+DOWN/LEFT+RIGHT"
 msgstr ""
-
