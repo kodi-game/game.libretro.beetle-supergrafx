@@ -29,7 +29,7 @@ msgid "Aspect Ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CD Bios (Restart)"
+msgid "CD BIOS (Restart)"
 msgstr ""
 
 msgctxt "#30004"
@@ -41,7 +41,7 @@ msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30006"
-msgid "(CD) CD PSG Volume %"
+msgid "(CD) PSG Volume %"
 msgstr ""
 
 msgctxt "#30007"
@@ -93,5 +93,5 @@ msgid "Alternate Turbo Hotkey"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Allow UP+DOWN/LEFT+RIGHT"
+msgid "Allow Opposing Directions"
 msgstr ""
