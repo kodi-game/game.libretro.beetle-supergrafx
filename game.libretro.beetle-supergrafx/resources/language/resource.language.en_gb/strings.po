@@ -77,25 +77,33 @@ msgid "Mouse Sensitivity"
 msgstr ""
 
 msgctxt "#30015"
-msgid "No Sprite Limit"
+msgid "Multitap"
 msgstr ""
 
 msgctxt "#30016"
-msgid "CPU Overclock Multiplier (Restart)"
+msgid "No Sprite Limit"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Delay"
+msgid "CPU Overclock Multiplier (Restart)"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Turbo Hotkey Mode"
+msgid "Colour Palette"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Alternate Turbo Hotkey"
+msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30020"
+msgid "Turbo Hotkey Mode"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30022"
 msgid "Allow Opposing Directions"
 msgstr ""
