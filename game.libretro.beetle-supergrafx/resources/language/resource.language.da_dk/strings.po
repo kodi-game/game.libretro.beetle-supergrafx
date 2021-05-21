@@ -22,11 +22,11 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "(CD) ADPCM Volume %"
+msgid "Colour Palette"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Aspect Ratio"
+msgid "CD Image Cache (Restart)"
 msgstr ""
 
 msgctxt "#30003"
@@ -34,47 +34,47 @@ msgid "CD BIOS (Restart)"
 msgstr ""
 
 msgctxt "#30004"
-msgid "(CD) CDDA Volume %"
-msgstr ""
-
-msgctxt "#30005"
-msgid "CD Image Cache (Restart)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "(CD) PSG Volume %"
-msgstr ""
-
-msgctxt "#30007"
-msgid "(CD) CD Speed"
-msgstr ""
-
-msgctxt "#30008"
 msgid "Detect Games Express CD (Restart)"
 msgstr ""
 
-msgctxt "#30009"
-msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
-
-msgctxt "#30010"
+msgctxt "#30005"
 msgid "Force SuperGrafx Emulation (Restart)"
 msgstr ""
 
-msgctxt "#30011"
+msgctxt "#30006"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30007"
+msgid "CPU Overclock Multiplier (Restart)"
+msgstr ""
+
+msgctxt "#30008"
 msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
-msgctxt "#30012"
+msgctxt "#30009"
 msgid "Initial scanline"
 msgstr ""
 
-msgctxt "#30013"
+msgctxt "#30010"
 msgid "Last scanline"
 msgstr ""
 
+msgctxt "#30011"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30012"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30013"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
 msgctxt "#30014"
-msgid "Mouse Sensitivity"
+msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30015"
@@ -82,29 +82,29 @@ msgid "Multitap"
 msgstr ""
 
 msgctxt "#30016"
-msgid "No Sprite Limit"
-msgstr ""
-
-msgctxt "#30017"
-msgid "CPU Overclock Multiplier (Restart)"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Colour Palette"
-msgstr ""
-
-msgctxt "#30019"
 msgid "Turbo Delay"
 msgstr ""
 
-msgctxt "#30020"
+msgctxt "#30017"
 msgid "Turbo Hotkey Mode"
 msgstr ""
 
-msgctxt "#30021"
+msgctxt "#30018"
 msgid "Alternate Turbo Hotkey"
 msgstr ""
 
-msgctxt "#30022"
+msgctxt "#30019"
+msgid "Disable Soft Reset (RUN+SELECT)"
+msgstr ""
+
+msgctxt "#30020"
 msgid "Allow Opposing Directions"
+msgstr ""
+
+msgctxt "#30021"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Aspect Ratio"
 msgstr ""
