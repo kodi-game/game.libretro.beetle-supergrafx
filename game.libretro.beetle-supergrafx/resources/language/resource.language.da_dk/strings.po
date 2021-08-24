@@ -17,6 +17,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+msgctxt "Addon Summary"
+msgid "NEC - PC Engine SuperGrafx (Beetle SuperGrafx) v1.23.0"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Source: https://github.com/libretro/beetle-supergrafx-libretro
+
+Supported files: .pce, .sgx, .cue, .ccd, .chd"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Indstillinger"
