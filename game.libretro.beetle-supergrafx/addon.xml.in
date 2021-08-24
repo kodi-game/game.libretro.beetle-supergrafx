@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">NEC - PC Engine SuperGrafx (Beetle SuperGrafx) v1.23.0</summary>
-		<description lang="en_GB">Beetle SuperGrafx is a PC Engine emulator. It was ported from Mednafen PCE Fast to libretro.</description>
+		<description lang="en_GB">Source: https://github.com/libretro/beetle-supergrafx-libretro[CR][CR]Supported files: .pce, .sgx, .cue, .ccd, .chd</description>
 	</extension>
 </addon>
