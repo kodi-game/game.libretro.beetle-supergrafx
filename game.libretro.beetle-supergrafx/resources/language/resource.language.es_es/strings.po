@@ -22,7 +22,7 @@ msgid "NEC - PC Engine SuperGrafx (Beetle SuperGrafx) v1.23.0"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Source: https://github.com/libretro/beetle-supergrafx-libretro[CR][CR]Supported files: .pce, .sgx, .cue, .ccd, .chd"
+msgid "Beetle SuperGrafx is a PC Engine emulator. It was ported from Mednafen PCE Fast to libretro."
 msgstr ""
 
 msgctxt "#30000"
