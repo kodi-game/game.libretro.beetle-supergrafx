@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-supergrafx"
 		name="NEC - PC Engine SuperGrafx (Beetle SuperGrafx)"
-		version="1.23.0.19"
+		version="1.23.0.20"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,6 +13,7 @@
 		<extensions>pce|sgx|cue|ccd|chd</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv2</license>
