@@ -4,21 +4,23 @@
 # NEC - PC Engine SuperGrafx (Beetle SuperGrafx)
 
 ### Description
+
 Beetle SuperGrafx is a PC Engine emulator. It was ported from Mednafen PCE Fast to libretro.
 
 ### License
+
 GPLv2
 
 ### Icon
 
 ![Icon](game.libretro.beetle-supergrafx/resources/icon.png)
 
+### Fanart
+
+Help make me fanart!
+
 ### Screenshots
 
 ![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-01.jpg)
-
 ![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-02.jpg)
-
 ![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-03.jpg)
-
-
