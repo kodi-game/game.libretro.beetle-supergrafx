@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-supergrafx (>= 1.23.0) | beetle-supergrafx (>= 1.23.0)
+               libretro-beetle-supergrafx (>= 1.29.0) | beetle-supergrafx (>= 1.29.0)
 Standards-Version: 3.9.8
 Section: libs
 
