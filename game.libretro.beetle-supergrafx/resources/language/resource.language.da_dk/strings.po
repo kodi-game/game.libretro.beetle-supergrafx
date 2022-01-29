@@ -30,89 +30,177 @@ msgid "Settings"
 msgstr "Indstillinger"
 
 msgctxt "#30001"
-msgid "Colour Palette"
-msgstr "Farvepalette"
+msgid "Color Palette"
+msgstr ""
 
 msgctxt "#30002"
-msgid "CD Image Cache (Restart)"
-msgstr "Cache for CD-image (genstart)"
+msgid "Aspect Ratio"
+msgstr ""
 
 msgctxt "#30003"
-msgid "CD BIOS (Restart)"
-msgstr "CD BIOS (genstart)"
+msgid "Horizontal Overscan (352 Width Mode Only)"
+msgstr ""
 
 msgctxt "#30004"
-msgid "Detect Games Express CD (Restart)"
-msgstr "Find express-cd for spil (genstart)"
+msgid "Initial Scanline"
+msgstr ""
 
 msgctxt "#30005"
-msgid "Force SuperGrafx Emulation (Restart)"
-msgstr "Gennemtving emulering af SuperGrafx (genstart)"
+msgid "Last Scanline"
+msgstr ""
 
 msgctxt "#30006"
-msgid "No Sprite Limit"
-msgstr "Ingen Sprite begrænsning"
+msgid "Mouse Sensitivity"
+msgstr ""
 
 msgctxt "#30007"
-msgid "CPU Overclock Multiplier (Restart)"
-msgstr "CPU Overclock Multiplier (genstart)"
+msgid "Allow Opposing Directions"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "Vandret overskandering (kun 352 breddetilstand)"
+msgid "Disable Soft Reset (RUN+SELECT)"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Initial scanline"
-msgstr "Oprindelige skanderingslinje"
+msgid "Multitap 5-port Controller"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Last scanline"
-msgstr "Sidste scanlinje"
+msgid "Turbo Hotkey Mode"
+msgstr ""
 
 msgctxt "#30011"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA lydstyrke %"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30012"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM lydstyrke %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30013"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG lydstyrke %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD-hastighed"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Multitap"
-msgstr "Multitap"
+msgid "Detect Games Express CD (Restart Required)"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Turbo Delay"
-msgstr "Turbo-forsinkelse"
+msgid "(CD) CD Speed"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Hotkey Mode"
-msgstr "Tilstand for turbo genvejstast"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
 
 msgctxt "#30018"
-msgid "Alternate Turbo Hotkey"
-msgstr "Alternativ Turbo genvejstast"
+msgid "(CD) CDDA Volume %"
+msgstr ""
 
 msgctxt "#30019"
-msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Deaktiver blød nulstilling (RUN+SELECT)"
+msgid "(CD) PSG Volume %"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Allow Opposing Directions"
-msgstr "Tillad modsatte retninger"
+msgid "Force SuperGrafx Emulation (Restart Required)"
+msgstr ""
 
 msgctxt "#30021"
-msgid "Mouse Sensitivity"
-msgstr "Musens følsomhed"
+msgid "No Sprite Limit"
+msgstr ""
 
 msgctxt "#30022"
-msgid "Aspect Ratio"
-msgstr "Billedformat"
+msgid "CPU Overclock Multiplier (Restart Required)"
+msgstr ""
+
+#~ msgctxt "#30001"
+#~ msgid "Colour Palette"
+#~ msgstr "Farvepalette"
+
+#~ msgctxt "#30002"
+#~ msgid "CD Image Cache (Restart)"
+#~ msgstr "Cache for CD-image (genstart)"
+
+#~ msgctxt "#30003"
+#~ msgid "CD BIOS (Restart)"
+#~ msgstr "CD BIOS (genstart)"
+
+#~ msgctxt "#30004"
+#~ msgid "Detect Games Express CD (Restart)"
+#~ msgstr "Find express-cd for spil (genstart)"
+
+#~ msgctxt "#30005"
+#~ msgid "Force SuperGrafx Emulation (Restart)"
+#~ msgstr "Gennemtving emulering af SuperGrafx (genstart)"
+
+#~ msgctxt "#30006"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Ingen Sprite begrænsning"
+
+#~ msgctxt "#30007"
+#~ msgid "CPU Overclock Multiplier (Restart)"
+#~ msgstr "CPU Overclock Multiplier (genstart)"
+
+#~ msgctxt "#30008"
+#~ msgid "Horizontal Overscan (352 Width Mode Only)"
+#~ msgstr "Vandret overskandering (kun 352 breddetilstand)"
+
+#~ msgctxt "#30009"
+#~ msgid "Initial scanline"
+#~ msgstr "Oprindelige skanderingslinje"
+
+#~ msgctxt "#30010"
+#~ msgid "Last scanline"
+#~ msgstr "Sidste scanlinje"
+
+#~ msgctxt "#30011"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA lydstyrke %"
+
+#~ msgctxt "#30012"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM lydstyrke %"
+
+#~ msgctxt "#30013"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG lydstyrke %"
+
+#~ msgctxt "#30014"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-hastighed"
+
+#~ msgctxt "#30015"
+#~ msgid "Multitap"
+#~ msgstr "Multitap"
+
+#~ msgctxt "#30016"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turbo-forsinkelse"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Hotkey Mode"
+#~ msgstr "Tilstand for turbo genvejstast"
+
+#~ msgctxt "#30018"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Alternativ Turbo genvejstast"
+
+#~ msgctxt "#30019"
+#~ msgid "Disable Soft Reset (RUN+SELECT)"
+#~ msgstr "Deaktiver blød nulstilling (RUN+SELECT)"
+
+#~ msgctxt "#30020"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Tillad modsatte retninger"
+
+#~ msgctxt "#30021"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Musens følsomhed"
+
+#~ msgctxt "#30022"
+#~ msgid "Aspect Ratio"
+#~ msgstr "Billedformat"

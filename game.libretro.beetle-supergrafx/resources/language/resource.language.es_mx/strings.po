@@ -30,89 +30,89 @@ msgid "Settings"
 msgstr "Ajustes"
 
 msgctxt "#30001"
-msgid "Colour Palette"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30002"
-msgid "CD Image Cache (Restart)"
+msgid "Aspect Ratio"
 msgstr ""
 
 msgctxt "#30003"
-msgid "CD BIOS (Restart)"
-msgstr ""
-
-msgctxt "#30004"
-msgid "Detect Games Express CD (Restart)"
-msgstr ""
-
-msgctxt "#30005"
-msgid "Force SuperGrafx Emulation (Restart)"
-msgstr ""
-
-msgctxt "#30006"
-msgid "No Sprite Limit"
-msgstr ""
-
-msgctxt "#30007"
-msgid "CPU Overclock Multiplier (Restart)"
-msgstr ""
-
-msgctxt "#30008"
 msgid "Horizontal Overscan (352 Width Mode Only)"
 msgstr ""
 
-msgctxt "#30009"
-msgid "Initial scanline"
+msgctxt "#30004"
+msgid "Initial Scanline"
 msgstr ""
 
-msgctxt "#30010"
-msgid "Last scanline"
+msgctxt "#30005"
+msgid "Last Scanline"
 msgstr ""
 
-msgctxt "#30011"
-msgid "(CD) CDDA Volume %"
-msgstr ""
-
-msgctxt "#30012"
-msgid "(CD) ADPCM Volume %"
-msgstr ""
-
-msgctxt "#30013"
-msgid "(CD) PSG Volume %"
-msgstr ""
-
-msgctxt "#30014"
-msgid "(CD) CD Speed"
-msgstr ""
-
-msgctxt "#30015"
-msgid "Multitap"
-msgstr ""
-
-msgctxt "#30016"
-msgid "Turbo Delay"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Turbo Hotkey Mode"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Alternate Turbo Hotkey"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
-
-msgctxt "#30020"
-msgid "Allow Opposing Directions"
-msgstr ""
-
-msgctxt "#30021"
+msgctxt "#30006"
 msgid "Mouse Sensitivity"
 msgstr ""
 
+msgctxt "#30007"
+msgid "Allow Opposing Directions"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Disable Soft Reset (RUN+SELECT)"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Multitap 5-port Controller"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Turbo Hotkey Mode"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30012"
+msgid "Turbo Delay"
+msgstr ""
+
+msgctxt "#30013"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
+
+msgctxt "#30014"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Detect Games Express CD (Restart Required)"
+msgstr ""
+
+msgctxt "#30016"
+msgid "(CD) CD Speed"
+msgstr ""
+
+msgctxt "#30017"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30018"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30019"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Force SuperGrafx Emulation (Restart Required)"
+msgstr ""
+
+msgctxt "#30021"
+msgid "No Sprite Limit"
+msgstr ""
+
 msgctxt "#30022"
-msgid "Aspect Ratio"
+msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr ""
