@@ -13,7 +13,7 @@ GPLv2
 
 ### Icon
 
-![Icon](game.libretro.beetle-supergrafx/resources/icon.png)
+![NEC - PC Engine SuperGrafx (Beetle SuperGrafx) icon](game.libretro.beetle-supergrafx/resources/icon.png)
 
 ### Fanart
 
@@ -21,6 +21,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.beetle-supergrafx/resources/screenshot-03.jpg)
+![NEC - PC Engine SuperGrafx (Beetle SuperGrafx) screenshot](game.libretro.beetle-supergrafx/resources/screenshot-01.jpg)
+![NEC - PC Engine SuperGrafx (Beetle SuperGrafx) screenshot](game.libretro.beetle-supergrafx/resources/screenshot-02.jpg)
+![NEC - PC Engine SuperGrafx (Beetle SuperGrafx) screenshot](game.libretro.beetle-supergrafx/resources/screenshot-03.jpg)
