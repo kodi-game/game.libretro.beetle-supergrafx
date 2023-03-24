@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.13\n"
 
 msgctxt "Addon Summary"
-msgid "NEC - PC Engine SuperGrafx (Beetle SuperGrafx) v1.23.0"
+msgid "NEC - PC Engine SuperGrafx (Beetle SuperGrafx)"
 msgstr ""
 
 msgctxt "Addon Description"
