@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.beetle-supergrafx.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.beetle-supergrafx)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.beetle-supergrafx?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-beetle-supergrafx)
-
 # NEC - PC Engine SuperGrafx (Beetle SuperGrafx)
 
 ### Description
