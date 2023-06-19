@@ -10,18 +10,23 @@
 		<setting label="30007" type="select" id="sgx_up_down_allowed" values="disabled|enabled" default="disabled"/>
 		<setting label="30008" type="select" id="sgx_disable_softreset" values="disabled|enabled" default="disabled"/>
 		<setting label="30009" type="select" id="sgx_multitap" values="enabled|disabled" default="enabled"/>
-		<setting label="30010" type="select" id="sgx_turbo_toggle" values="disabled|switch|dedicated" default="disabled"/>
-		<setting label="30011" type="select" id="sgx_turbo_toggle_hotkey" values="disabled|enabled" default="disabled"/>
-		<setting label="30012" type="select" id="sgx_turbo_delay" values="3|4|5|6|7|8|9|10|11|12|13|14|15|30|60" default="3"/>
-		<setting label="30013" type="select" id="sgx_cdimagecache" values="disabled|enabled" default="disabled"/>
-		<setting label="30014" type="select" id="sgx_cdbios" values="System Card 3|Games Express|System Card 1|System Card 2" default="System Card 3"/>
-		<setting label="30015" type="select" id="sgx_detect_gexpress" values="enabled|disabled" default="enabled"/>
-		<setting label="30016" type="select" id="sgx_cdspeed" values="1|2|4|8" default="1"/>
-		<setting label="30017" type="select" id="sgx_adpcmvolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
-		<setting label="30018" type="select" id="sgx_cddavolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
-		<setting label="30019" type="select" id="sgx_cdpsgvolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
-		<setting label="30020" type="select" id="sgx_forcesgx" values="disabled|enabled" default="disabled"/>
-		<setting label="30021" type="select" id="sgx_nospritelimit" values="disabled|enabled" default="disabled"/>
-		<setting label="30022" type="select" id="sgx_ocmultiplier" values="1|2|3|4|5|6|7|8|9|10|20|30|40|50" default="1"/>
+		<setting label="30010" type="select" id="sgx_default_joypad_type_p1" values="2 Buttons|6 Buttons" default="2 Buttons"/>
+		<setting label="30011" type="select" id="sgx_default_joypad_type_p2" values="2 Buttons|6 Buttons" default="2 Buttons"/>
+		<setting label="30012" type="select" id="sgx_default_joypad_type_p3" values="2 Buttons|6 Buttons" default="2 Buttons"/>
+		<setting label="30013" type="select" id="sgx_default_joypad_type_p4" values="2 Buttons|6 Buttons" default="2 Buttons"/>
+		<setting label="30014" type="select" id="sgx_default_joypad_type_p5" values="2 Buttons|6 Buttons" default="2 Buttons"/>
+		<setting label="30015" type="select" id="sgx_turbo_toggle" values="disabled|switch|dedicated" default="disabled"/>
+		<setting label="30016" type="select" id="sgx_turbo_toggle_hotkey" values="disabled|enabled" default="disabled"/>
+		<setting label="30017" type="select" id="sgx_turbo_delay" values="3|4|5|6|7|8|9|10|11|12|13|14|15|30|60" default="3"/>
+		<setting label="30018" type="select" id="sgx_cdimagecache" values="disabled|enabled" default="disabled"/>
+		<setting label="30019" type="select" id="sgx_cdbios" values="System Card 3|Games Express|System Card 1|System Card 2" default="System Card 3"/>
+		<setting label="30020" type="select" id="sgx_detect_gexpress" values="enabled|disabled" default="enabled"/>
+		<setting label="30021" type="select" id="sgx_cdspeed" values="1|2|4|8" default="1"/>
+		<setting label="30022" type="select" id="sgx_adpcmvolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30023" type="select" id="sgx_cddavolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30024" type="select" id="sgx_cdpsgvolume" values="100|0|10|20|30|40|50|60|70|80|90|110|120|130|140|150|160|170|180|190|200" default="100"/>
+		<setting label="30025" type="select" id="sgx_forcesgx" values="disabled|enabled" default="disabled"/>
+		<setting label="30026" type="select" id="sgx_nospritelimit" values="disabled|enabled" default="disabled"/>
+		<setting label="30027" type="select" id="sgx_ocmultiplier" values="1|2|3|4|5|6|7|8|9|10|20|30|40|50" default="1"/>
 	</category>
 </settings>
