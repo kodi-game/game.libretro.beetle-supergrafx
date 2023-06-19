@@ -66,56 +66,128 @@ msgid "Multitap 5-port Controller"
 msgstr "多插5端口控制器"
 
 msgctxt "#30010"
-msgid "Turbo Hotkey Mode"
-msgstr "Turbo 热键模式"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate Turbo Hotkey"
-msgstr "备用 Turbo 热键"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Turbo Delay"
-msgstr "Turbo 延迟"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30013"
-msgid "CD Image Cache (Restart Required)"
-msgstr "CD 映像缓存（需要重新启动）"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30014"
-msgid "CD BIOS (Restart Required)"
-msgstr "CD BIOS（需要重新启动）"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Detect Games Express CD (Restart Required)"
-msgstr "检测 Games Express CD（需要重新启动）"
+msgid "Turbo Hotkey Mode"
+msgstr ""
 
 msgctxt "#30016"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD 速度"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30017"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM 音量 %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30018"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA 音量 %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30019"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG 音量 %"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr "强制 SuperGrafx 仿真（需要重新启动）"
+msgid "Detect Games Express CD (Restart Required)"
+msgstr ""
 
 msgctxt "#30021"
-msgid "No Sprite Limit"
-msgstr "无 Sprite 限制"
+msgid "(CD) CD Speed"
+msgstr ""
 
 msgctxt "#30022"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30023"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30024"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Force SuperGrafx Emulation (Restart Required)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "CPU 超频倍增器（需要重新启动）"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Turbo Hotkey Mode"
+#~ msgstr "Turbo 热键模式"
+
+#~ msgctxt "#30011"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "备用 Turbo 热键"
+
+#~ msgctxt "#30012"
+#~ msgid "Turbo Delay"
+#~ msgstr "Turbo 延迟"
+
+#~ msgctxt "#30013"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "CD 映像缓存（需要重新启动）"
+
+#~ msgctxt "#30014"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "CD BIOS（需要重新启动）"
+
+#~ msgctxt "#30015"
+#~ msgid "Detect Games Express CD (Restart Required)"
+#~ msgstr "检测 Games Express CD（需要重新启动）"
+
+#~ msgctxt "#30016"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD 速度"
+
+#~ msgctxt "#30017"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM 音量 %"
+
+#~ msgctxt "#30018"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA 音量 %"
+
+#~ msgctxt "#30019"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG 音量 %"
+
+#~ msgctxt "#30020"
+#~ msgid "Force SuperGrafx Emulation (Restart Required)"
+#~ msgstr "强制 SuperGrafx 仿真（需要重新启动）"
+
+#~ msgctxt "#30021"
+#~ msgid "No Sprite Limit"
+#~ msgstr "无 Sprite 限制"
+
+#~ msgctxt "#30022"
+#~ msgid "CPU Overclock Multiplier (Restart Required)"
+#~ msgstr "CPU 超频倍增器（需要重新启动）"
 
 #~ msgctxt "#30001"
 #~ msgid "Colour Palette"

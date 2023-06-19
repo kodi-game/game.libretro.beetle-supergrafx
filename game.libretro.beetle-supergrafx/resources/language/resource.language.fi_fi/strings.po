@@ -66,53 +66,73 @@ msgid "Multitap 5-port Controller"
 msgstr "5-porttinen Multitap-ohjain"
 
 msgctxt "#30010"
-msgid "Turbo Hotkey Mode"
+msgid "P1 Default Joypad Type"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate Turbo Hotkey"
+msgid "P2 Default Joypad Type"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Turbo Delay"
+msgid "P3 Default Joypad Type"
 msgstr ""
 
 msgctxt "#30013"
-msgid "CD Image Cache (Restart Required)"
+msgid "P4 Default Joypad Type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "CD BIOS (Restart Required)"
+msgid "P5 Default Joypad Type"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Detect Games Express CD (Restart Required)"
+msgid "Turbo Hotkey Mode"
 msgstr ""
 
 msgctxt "#30016"
-msgid "(CD) CD Speed"
+msgid "Alternate Turbo Hotkey"
 msgstr ""
 
 msgctxt "#30017"
-msgid "(CD) ADPCM Volume %"
+msgid "Turbo Delay"
 msgstr ""
 
 msgctxt "#30018"
-msgid "(CD) CDDA Volume %"
+msgid "CD Image Cache (Restart Required)"
 msgstr ""
 
 msgctxt "#30019"
-msgid "(CD) PSG Volume %"
+msgid "CD BIOS (Restart Required)"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Force SuperGrafx Emulation (Restart Required)"
+msgid "Detect Games Express CD (Restart Required)"
 msgstr ""
 
 msgctxt "#30021"
-msgid "No Sprite Limit"
+msgid "(CD) CD Speed"
 msgstr ""
 
 msgctxt "#30022"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30023"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30024"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Force SuperGrafx Emulation (Restart Required)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr ""

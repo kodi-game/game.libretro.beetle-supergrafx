@@ -66,53 +66,125 @@ msgid "Multitap 5-port Controller"
 msgstr "Controlador Multitap de 5 puertos"
 
 msgctxt "#30010"
-msgid "Turbo Hotkey Mode"
-msgstr "Modo Tecla Rápida Turbo"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Alternate Turbo Hotkey"
-msgstr "Tecla Rápida Turbo Alternativa"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Turbo Delay"
-msgstr "Retardo Turbo"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30013"
-msgid "CD Image Cache (Restart Required)"
-msgstr "Caché Imagen CD (requiere reinicio)"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30014"
-msgid "CD BIOS (Restart Required)"
-msgstr "CD BIOS (requiere reinicio)"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Detect Games Express CD (Restart Required)"
-msgstr "Detectar CD de Games Express (requiere reinicio)"
+msgid "Turbo Hotkey Mode"
+msgstr ""
 
 msgctxt "#30016"
-msgid "(CD) CD Speed"
-msgstr "(CD) Velocidad CD"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30017"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Volumen %"
+msgid "Turbo Delay"
+msgstr ""
 
 msgctxt "#30018"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Volumen %"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
 
 msgctxt "#30019"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG Volumen %"
+msgid "CD BIOS (Restart Required)"
+msgstr ""
 
 msgctxt "#30020"
-msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr "Forzar Emulación SuperGrafx (requiere reinicio)"
+msgid "Detect Games Express CD (Restart Required)"
+msgstr ""
 
 msgctxt "#30021"
-msgid "No Sprite Limit"
-msgstr "Sin Límite de Sprites"
+msgid "(CD) CD Speed"
+msgstr ""
 
 msgctxt "#30022"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30023"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30024"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
+msgctxt "#30025"
+msgid "Force SuperGrafx Emulation (Restart Required)"
+msgstr ""
+
+msgctxt "#30026"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "Multiplicador de Overclock de la CPU (requiere reinicio)"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Turbo Hotkey Mode"
+#~ msgstr "Modo Tecla Rápida Turbo"
+
+#~ msgctxt "#30011"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Tecla Rápida Turbo Alternativa"
+
+#~ msgctxt "#30012"
+#~ msgid "Turbo Delay"
+#~ msgstr "Retardo Turbo"
+
+#~ msgctxt "#30013"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "Caché Imagen CD (requiere reinicio)"
+
+#~ msgctxt "#30014"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "CD BIOS (requiere reinicio)"
+
+#~ msgctxt "#30015"
+#~ msgid "Detect Games Express CD (Restart Required)"
+#~ msgstr "Detectar CD de Games Express (requiere reinicio)"
+
+#~ msgctxt "#30016"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Velocidad CD"
+
+#~ msgctxt "#30017"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Volumen %"
+
+#~ msgctxt "#30018"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Volumen %"
+
+#~ msgctxt "#30019"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG Volumen %"
+
+#~ msgctxt "#30020"
+#~ msgid "Force SuperGrafx Emulation (Restart Required)"
+#~ msgstr "Forzar Emulación SuperGrafx (requiere reinicio)"
+
+#~ msgctxt "#30021"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Sin Límite de Sprites"
+
+#~ msgctxt "#30022"
+#~ msgid "CPU Overclock Multiplier (Restart Required)"
+#~ msgstr "Multiplicador de Overclock de la CPU (requiere reinicio)"
