@@ -1,1 +1,1 @@
-beetle-supergrafx https://github.com/libretro/beetle-supergrafx-libretro/archive/311cefef7250e352d544ddf12196d267ee6e93c1.tar.gz
+beetle-supergrafx https://github.com/libretro/beetle-supergrafx-libretro/archive/460205fc7209a8397e215e2fb3fc13766f7c4316.tar.gz
