@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
-	<category label="30000">
+	<category label="128">
 		<setting label="30001" type="select" id="sgx_palette" values="RGB|Composite" default="RGB"/>
 		<setting label="30002" type="select" id="sgx_aspect_ratio" values="auto|6:5|4:3" default="auto"/>
 		<setting label="30003" type="select" id="sgx_hoverscan" values="352|300|302|304|306|308|310|312|314|316|318|320|322|324|326|328|330|332|334|336|338|340|342|344|346|348|350" default="352"/>
