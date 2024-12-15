@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle SuperGrafx is a PC Engine emulator. It was ported from Mednafen PCE Fast to libretro."
 msgstr "Beetle SuperGrafx ist ein PC-Engine-Emulator. Er wurde von Mednafen PCE Fast auf libretro portiert."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Color Palette"
 msgstr "Farbpalette"
@@ -136,6 +132,10 @@ msgstr ""
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
 
 #~ msgctxt "#30010"
 #~ msgid "Turbo Hotkey Mode"
