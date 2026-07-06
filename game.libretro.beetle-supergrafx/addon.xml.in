@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="cs_CZ">NEC - PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
 		<summary lang="da_DK">NEC - PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
 		<summary lang="en_GB">NEC - PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
 		<summary lang="es_ES">NEC - PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
@@ -34,6 +35,7 @@
 		<summary lang="ru_RU">NEC — PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
 		<summary lang="sv_SE">NEC - PC Engine SuperGrafx (Beetle SuperGrafx)</summary>
 		<summary lang="zh_CN">NEC - PC 引擎 SuperGrafx (Beetle SuperGrafx)</summary>
+		<description lang="cs_CZ">Beetle SuperGrafx je emulátor PC Engine. Byl portován z Mednafen PCE Fast do libretro.</description>
 		<description lang="da_DK">Beetle SuperGrafx er en PC Engine-emulator. Det blev overført fra Mednafen PCE Fast til libretro.</description>
 		<description lang="de_DE">Beetle SuperGrafx ist ein PC-Engine-Emulator. Er wurde von Mednafen PCE Fast auf libretro portiert.</description>
 		<description lang="en_GB">Beetle SuperGrafx is a PC Engine emulator. It was ported from Mednafen PCE Fast to libretro.</description>
