@@ -133,6 +133,162 @@ msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
 msgstr "CPU 超频倍增器（需要重新启动）"
 
+msgctxt "#30028"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Configure display cropping, frame skipping and other image output parameters."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Composite tries to recreate the original console output and can show more details in some games."
+msgstr ""
+
+msgctxt "#30031"
+msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
+msgstr ""
+
+msgctxt "#30032"
+msgid "Auto"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
+msgstr ""
+
+msgctxt "#30034"
+msgid "352 (Default)"
+msgstr ""
+
+msgctxt "#30035"
+msgid "First rendered scanline. Higher values will crop the top of the image."
+msgstr ""
+
+msgctxt "#30036"
+msgid "3 (Default)"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Last rendered scanline. Lower values will crop the bottom of the image."
+msgstr ""
+
+msgctxt "#30038"
+msgid "242 (Default)"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Configure light gun, mouse and NegCon input."
+msgstr ""
+
+msgctxt "#30041"
+msgid "Higher values will make the mouse cursor move faster."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
+msgstr ""
+
+msgctxt "#30043"
+msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
+msgstr ""
+
+msgctxt "#30045"
+msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30046"
+msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30047"
+msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30048"
+msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30049"
+msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
+msgstr ""
+
+msgctxt "#30050"
+msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Toggle"
+msgstr ""
+
+msgctxt "#30052"
+msgid "Dedicated"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
+msgstr ""
+
+msgctxt "#30054"
+msgid "Adjust the time between turbo fire (in frames)."
+msgstr ""
+
+msgctxt "#30055"
+msgid "Emulation Hacks"
+msgstr ""
+
+msgctxt "#30056"
+msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
+msgstr ""
+
+msgctxt "#30057"
+msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."
+msgstr ""
+
+msgctxt "#30058"
+msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
+msgstr ""
+
+msgctxt "#30059"
+msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
+msgstr ""
+
+msgctxt "#30060"
+msgid "CD"
+msgstr ""
+
+msgctxt "#30061"
+msgid "Configure settings related to CD games."
+msgstr ""
+
+msgctxt "#30062"
+msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
+msgstr ""
+
+msgctxt "#30063"
+msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
+msgstr ""
+
+msgctxt "#30064"
+msgid "Automatically load the Games Express BIOS regardless of CD BIOS setting when loading Games Express CD games."
+msgstr ""
+
+msgctxt "#30065"
+msgid "Higher values enable faster loading times but can cause issues with a couple of games."
+msgstr ""
+
+msgctxt "#30066"
+msgid "CD game only. Setting this volume control too high may cause sample clipping."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"
