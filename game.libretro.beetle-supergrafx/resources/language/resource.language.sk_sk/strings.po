@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Farebná paleta"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Pomer strán"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Citlivosť myši"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
@@ -91,7 +91,7 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Trvanie Turbo"
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
@@ -107,19 +107,19 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD rýchlosť"
 
 msgctxt "#30022"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM hlasitosť %"
 
 msgctxt "#30023"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA hlasitosť %"
 
 msgctxt "#30024"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG hlasitosť %"
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (predvolené)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (predvolené)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -175,11 +175,11 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (predvolené)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Vstup"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
@@ -227,11 +227,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Toggle"
-msgstr ""
+msgstr "Prepnúť"
 
 msgctxt "#30052"
 msgid "Dedicated"
-msgstr ""
+msgstr "Vyhradené"
 
 msgctxt "#30053"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
@@ -243,7 +243,7 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulačné hacky"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."

@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Bảng màu"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
@@ -35,7 +35,7 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Quét theo chiều ngang (Chỉ dành cho chế độ chiều rộng 352)"
 
 msgctxt "#30004"
 msgid "Initial Scanline"
@@ -135,15 +135,15 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "Hình ảnh"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Tùy chỉnh crop màn hình, bỏ qua khung hình và các thông số đầu ra hình ảnh khác."
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Tổng hợp các cố gắng để tạo lại đầu ra bảng điều khiển ban đầu và có thể hiển thị thêm chi tiết trong một số trò chơi."
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Mặc định)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Mặc định)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -175,15 +175,15 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Mặc định)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Input Driver"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Định cấu hình đầu vào của súng, chuột và NegCon."
 
 msgctxt "#30041"
 msgid "Higher values will make the mouse cursor move faster."
@@ -243,11 +243,11 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks giả lập"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Định cấu hình các thông số độ chính xác của việc ép xung và mô phỏng bộ xử lý ảnh hưởng đến hiệu suất và khả năng tương thích ở mức thấp."
 
 msgctxt "#30057"
 msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."

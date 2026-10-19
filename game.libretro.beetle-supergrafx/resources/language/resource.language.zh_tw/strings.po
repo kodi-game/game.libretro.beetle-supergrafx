@@ -27,39 +27,39 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "影像配色"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "寬高比"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "水平過度掃描 (僅限寬度352模式)"
 
 msgctxt "#30004"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "初始掃描線"
 
 msgctxt "#30005"
 msgid "Last Scanline"
-msgstr ""
+msgstr "最後掃描線"
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "滑鼠靈敏度"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "允許反向操作"
 
 msgctxt "#30008"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "禁用軟體重開 (RUN+SELECT)"
 
 msgctxt "#30009"
 msgid "Multitap 5-port Controller"
-msgstr ""
+msgstr "五手把轉接器"
 
 msgctxt "#30010"
 msgid "P1 Default Joypad Type"
@@ -83,123 +83,126 @@ msgstr ""
 
 msgctxt "#30015"
 msgid "Turbo Hotkey Mode"
-msgstr ""
+msgstr "連發模式"
 
 msgctxt "#30016"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "備用連發按鍵"
 
 msgctxt "#30017"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "連發間隔"
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "映像檔快取 (需要重新啟動)"
 
 msgctxt "#30019"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "光碟系統卡 (需要重新啟動)"
 
 msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
-msgstr ""
+msgstr "偵測未授權遊戲 (需要重新啟動)"
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(光碟機) 讀取速度"
 
 msgctxt "#30022"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(光碟機) ADPCM 音量 %"
 
 msgctxt "#30023"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(光碟機) CDDA 音量 %"
 
 msgctxt "#30024"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(光碟機) PSG 音量 %"
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr ""
+msgstr "強制SuperGrafx系統 (需要重新啟動)"
 
 msgctxt "#30026"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "沒有物件限制"
 
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "CPU超頻倍頻 (需要重新啟動)"
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "顯示"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "變更畫面裁剪、跳幀和影像輸出相關的設定。"
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "設定<合成>時嘗試重建原色影像輸出, 可在部分遊戲中顯示更多細節。"
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
 msgstr ""
+"設定畫面的寬高比。\n"
+"設定為<自動>時, 建議將「水平過度掃描」設定為<342>模式, 減少調整大小和額外增加的黑線。\n"
+"可執行「飛鳥120%(Asuka120%)」測試, 此遊戲在256和352顯示模式之間切換。"
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "自動"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "設定影像顯示的最大寬度, 過低的值將裁剪影像右側(寬度352像素的遊戲)。"
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (預設)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "設定最初渲染的掃描線, 過高的值將裁剪影像頂部。"
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (預設)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "設定最後渲染的掃描線, 過低的值將裁剪影像底部。"
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (預設)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "變更輸入裝置相關的設定。"
 
 msgctxt "#30041"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "數值越高游標移動速度越快。"
 
 msgctxt "#30042"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "允許控制器反方向快速操作, 可同時按左右或上下的方向, 可能導致遊戲的移動架構出錯。"
 
 msgctxt "#30043"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "禁用按[RUN鍵+SELECT鍵]重新開始遊戲, 此選項僅禁用核心登錄的組合鍵。"
 
 msgctxt "#30044"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "使用五手把轉接插座可對應五位玩家, 部分遊戲執行時需要關閉此選項, 例如「超兄貴(Cho Aniki)」。"
 
 msgctxt "#30045"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
@@ -223,71 +226,75 @@ msgstr ""
 
 msgctxt "#30050"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "設定[III/IV鍵]連發模式(開關/專用), 設定<開關>時提供給[I/II鍵]使用。"
 
 msgctxt "#30051"
 msgid "Toggle"
-msgstr ""
+msgstr "開關"
 
 msgctxt "#30052"
 msgid "Dedicated"
-msgstr ""
+msgstr "專用"
 
 msgctxt "#30053"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "開啟時[L3/R3鍵]作為連發的開關, 僅限「連發模式」設定為<開關>模式, 並且[L3/R3鍵]未設定按鍵時生效, 用於切換為主機的6鍵控制器。"
 
 msgctxt "#30054"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "設定連發的間隔時間(幀數)。"
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "進階"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "變更模擬器進階破解的設定。"
 
 msgctxt "#30057"
 msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."
-msgstr ""
+msgstr "用於自製遊戲使用SuperGrafx系統執行, 非需要時建議關閉此選項, 避免發生系統不相容的情況。"
 
 msgctxt "#30058"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
 msgstr ""
+"移除每條掃描線16個物件的硬體限制。\n"
+"警告: 可能導致某些遊戲出現圖形故障。"
 
 msgctxt "#30059"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
 msgstr ""
+"較高的值可降低游戲中的延遲。\n"
+"警告: 可能導致故障崩潰。"
 
 msgctxt "#30060"
 msgid "CD"
-msgstr ""
+msgstr "光碟機"
 
 msgctxt "#30061"
 msgid "Configure settings related to CD games."
-msgstr ""
+msgstr "變更光碟機相關的設定。"
 
 msgctxt "#30062"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "將光碟映像檔完整載入到記憶體, 增加啟動時間並減少讀取的時間。"
 
 msgctxt "#30063"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "設定<系統卡3>時支援較多的授權遊戲, 未授權的遊戲需要<遊戲特快卡>來執行。"
 
 msgctxt "#30064"
 msgid "Automatically load the Games Express BIOS regardless of CD BIOS setting when loading Games Express CD games."
-msgstr ""
+msgstr "載入未授權的遊戲時自動使用遊戲特快卡(BIOS)。"
 
 msgctxt "#30065"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "高倍速可加快讀取的時間, 但可能導致遊戲出現問題。"
 
 msgctxt "#30066"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "僅限實體或虛擬光碟機載入的遊戲, 音量設定過高可能會導致取樣削波。"
 
 msgctxt "#30067"
 msgid "6:5"

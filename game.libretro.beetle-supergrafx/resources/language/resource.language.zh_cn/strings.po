@@ -31,11 +31,11 @@ msgstr "调色板"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr "宽高比"
+msgstr "纵横比"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr "水平过扫描（仅限352宽度模式）"
+msgstr "水平过扫描 (仅在352宽度模式下生效)"
 
 msgctxt "#30004"
 msgid "Initial Scanline"
@@ -43,7 +43,7 @@ msgstr "初始扫描线"
 
 msgctxt "#30005"
 msgid "Last Scanline"
-msgstr "最末扫描线"
+msgstr "终末扫描线"
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
@@ -51,11 +51,11 @@ msgstr "鼠标灵敏度"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr "允许反向"
+msgstr "允许相反方向的输入"
 
 msgctxt "#30008"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "禁用软重置（RUN+SELECT）"
+msgstr "禁用软重置 (RUN+SELECT)"
 
 msgctxt "#30009"
 msgid "Multitap 5-port Controller"
@@ -115,11 +115,11 @@ msgstr "(CD) ADPCM 音量 %"
 
 msgctxt "#30023"
 msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA 音量 %"
+msgstr "(CD) CDDA 音量百分比"
 
 msgctxt "#30024"
 msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG 音量 %"
+msgstr "(CD) PSG 音量百分比"
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
@@ -131,19 +131,19 @@ msgstr "无 Sprite 限制"
 
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr "CPU 超频倍增器（需要重新启动）"
+msgstr "CPU 超频倍率（重启以生效）"
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "设置显示裁剪、跳帧和其他显示"
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "使用复合设计模式尝试复现原始的控制台显示，在部分游戏中可以显示更多细节"
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
@@ -151,51 +151,51 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "选择要显示的最大图像宽度，超出设定值的图像将从右侧被裁减 (针对宽度为352px的游戏)"
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (默认)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "扫描线渲染的上界，超出设定值的部分将从图像顶部被裁剪"
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (默认)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "扫描线渲染的下界，超出设定值的部分将从图像底部被裁剪。"
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (默认)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "设置光枪、鼠标和Neg手柄"
 
 msgctxt "#30041"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "更高的值将使鼠标光标移动更快。"
 
 msgctxt "#30042"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "启用此功能将允许同时按下/快速交替/按住左右(或上下)两个方向。这可能会导致基于移动的故障。"
 
 msgctxt "#30043"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "当同时按下 RUN 和 SELECT 两个按键时，暂时禁用两个按键而不是触发软重置。"
 
 msgctxt "#30044"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
@@ -203,23 +203,23 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "选择端口 1 手柄默认为 2 键或 6 键。 此选项仅在核心启动时应用，如果您想要在内容运行时切换，请使用“模式切换”按钮。 注意：6 键手柄在不兼容的游戏中可能会有一些意想不到的行为。"
 
 msgctxt "#30046"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "选择端口 2 手柄默认为 2 或 6 按钮。此选项仅在核心启动时应用，如果您想在内容运行时切换，请使用 \"模式切换 \"按钮。注意：在不兼容的游戏中，6 按钮手柄可能会有奇怪的行为。"
 
 msgctxt "#30047"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "选择端口 3 手柄默认为 2 键还是 6 键。此选项仅在核心启动时应用，如果您想要在内容运行时切换，请使用“模式切换”按钮。 注意：6 键手柄在不兼容的游戏中可能会有一些意想不到的行为。"
 
 msgctxt "#30048"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "选择端口 4 手柄默认为 2 键还是 6 键。此选项仅在核心启动时应用，如果您想要在内容运行时切换，请使用“模式切换”按钮。 注意：6 键手柄在不兼容的游戏中可能会有一些意想不到的行为。"
 
 msgctxt "#30049"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "选择端口 5 手柄默认为 2 键还是 6 键。此选项仅在核心启动时应用，如果您想要在内容运行时切换，请使用“模式切换”按钮。 注意：6 键手柄在不兼容的游戏中可能会有一些意想不到的行为。"
 
 msgctxt "#30050"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
@@ -227,7 +227,7 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Toggle"
-msgstr ""
+msgstr "切换"
 
 msgctxt "#30052"
 msgid "Dedicated"
@@ -243,23 +243,23 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "模拟修改"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "配置处理器超时和模拟精确参数，影响低级性能和兼容性。"
 
 msgctxt "#30057"
 msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."
-msgstr ""
+msgstr "这有助于运行自制游戏或隔离无法在 SuperGrafx 模式下运行的游戏（如太空哈利）。保存状态与每种模式都不兼容。如无必要，最好关闭此选项。已知的 SuperGrafx 游戏（如大魔界村、霹雳风云）会自动切换到 SuperGrafx 模式，与此选项无关。"
 
 msgctxt "#30058"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "移除每条扫描线16个符号的硬件限制。警告！可能会导致某些游戏的显示问题。"
 
 msgctxt "#30059"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "更高的值可以减少游戏中的降速。注意！可能导致故障和崩溃。"
 
 msgctxt "#30060"
 msgid "CD"
@@ -267,15 +267,15 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Configure settings related to CD games."
-msgstr ""
+msgstr "配置与 CD 游戏相关的设置。"
 
 msgctxt "#30062"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "在启动时将完整的镜像加载到内存中，以增加启动时间为代价，或许能减少游戏中的加载时间。"
 
 msgctxt "#30063"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "大部分的游戏可以在BIOS“System Card 3”上运行，但是一些未经授权的游戏需要“Games Express”。"
 
 msgctxt "#30064"
 msgid "Automatically load the Games Express BIOS regardless of CD BIOS setting when loading Games Express CD games."
@@ -283,11 +283,11 @@ msgstr ""
 
 msgctxt "#30065"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "较高的数值可以加快加载速度，但会使一些游戏出现问题。"
 
 msgctxt "#30066"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "仅 CD 游戏生效。将此音量控制设置得太高可能会导致采样削波。"
 
 msgctxt "#30067"
 msgid "6:5"
@@ -702,57 +702,57 @@ msgstr ""
 #~ msgstr "设置"
 
 #~ msgctxt "#30010"
+#~ msgid "P1 Default Joypad Type"
+#~ msgstr "P1 默认手柄类型"
+
+#~ msgctxt "#30011"
+#~ msgid "P2 Default Joypad Type"
+#~ msgstr "P2 默认手柄类型"
+
+#~ msgctxt "#30012"
+#~ msgid "P3 Default Joypad Type"
+#~ msgstr "P3 默认手柄类型"
+
+#~ msgctxt "#30013"
+#~ msgid "P4 Default Joypad Type"
+#~ msgstr "P4 默认手柄类型"
+
+#~ msgctxt "#30014"
+#~ msgid "P5 Default Joypad Type"
+#~ msgstr "P5 默认手柄类型"
+
+#~ msgctxt "#30015"
 #~ msgid "Turbo Hotkey Mode"
 #~ msgstr "Turbo 热键模式"
 
-#~ msgctxt "#30011"
-#~ msgid "Alternate Turbo Hotkey"
-#~ msgstr "备用 Turbo 热键"
-
-#~ msgctxt "#30012"
-#~ msgid "Turbo Delay"
-#~ msgstr "Turbo 延迟"
-
-#~ msgctxt "#30013"
-#~ msgid "CD Image Cache (Restart Required)"
-#~ msgstr "CD 映像缓存（需要重新启动）"
-
-#~ msgctxt "#30014"
-#~ msgid "CD BIOS (Restart Required)"
-#~ msgstr "CD BIOS（需要重新启动）"
-
-#~ msgctxt "#30015"
-#~ msgid "Detect Games Express CD (Restart Required)"
-#~ msgstr "检测 Games Express CD（需要重新启动）"
-
 #~ msgctxt "#30016"
-#~ msgid "(CD) CD Speed"
-#~ msgstr "(CD) CD 速度"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "备用连发热键"
 
 #~ msgctxt "#30017"
-#~ msgid "(CD) ADPCM Volume %"
+#~ msgid "Turbo Delay"
 #~ msgstr "(CD) ADPCM 音量 %"
 
 #~ msgctxt "#30018"
-#~ msgid "(CD) CDDA Volume %"
-#~ msgstr "(CD) CDDA 音量 %"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "启用CD光盘缓存（重启以生效）"
 
 #~ msgctxt "#30019"
-#~ msgid "(CD) PSG Volume %"
-#~ msgstr "(CD) PSG 音量 %"
+#~ msgid "CD BIOS (Restart Required)"
+#~ msgstr "设置CD的BIOS（重启以生效）"
 
 #~ msgctxt "#30020"
-#~ msgid "Force SuperGrafx Emulation (Restart Required)"
+#~ msgid "Detect Games Express CD (Restart Required)"
 #~ msgstr "强制 SuperGrafx 仿真（需要重新启动）"
 
 #~ msgctxt "#30021"
-#~ msgid "No Sprite Limit"
-#~ msgstr "无 Sprite 限制"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD 加载速度"
 
 #~ msgctxt "#30022"
-#~ msgid "CPU Overclock Multiplier (Restart Required)"
-#~ msgstr "CPU 超频倍增器（需要重新启动）"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM 音量百分比"
 
 #~ msgctxt "#30001"
-#~ msgid "Colour Palette"
-#~ msgstr "调色板"
+#~ msgid "Color Palette"
+#~ msgstr "色板"

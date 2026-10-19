@@ -27,239 +27,239 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "색상 팔레트"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "화면비"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "수평 오버스캔 (352 너비 모드만 해당)"
 
 msgctxt "#30004"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "최초 스캔라인"
 
 msgctxt "#30005"
 msgid "Last Scanline"
-msgstr ""
+msgstr "마지막 스캔라인"
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "마우스 감도"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "반대 방향 동시 입력 허용"
 
 msgctxt "#30008"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "소프트 리셋 비활성화 (RUN+SELECT)"
 
 msgctxt "#30009"
 msgid "Multitap 5-port Controller"
-msgstr ""
+msgstr "멀티탭 5포트 컨트롤러"
 
 msgctxt "#30010"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "P1 기본 조이패드 유형"
 
 msgctxt "#30011"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "P2 기본 조이패드 유형"
 
 msgctxt "#30012"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "P3 기본 조이패드 유형"
 
 msgctxt "#30013"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "P4 기본 조이패드 유형"
 
 msgctxt "#30014"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "P5 기본 조이패드 유형"
 
 msgctxt "#30015"
 msgid "Turbo Hotkey Mode"
-msgstr ""
+msgstr "터포 핫키 모드"
 
 msgctxt "#30016"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "대체 터보 핫키"
 
 msgctxt "#30017"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "터보 지연"
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD 이미지 캐시 (재시작 필요)"
 
 msgctxt "#30019"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (재시작 필요)"
 
 msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
-msgstr ""
+msgstr "Games Express CD 감지(재시작 필요)"
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD 속도"
 
 msgctxt "#30022"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM 볼륨 %"
 
 msgctxt "#30023"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA 음량 %"
 
 msgctxt "#30024"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG 볼륨 %"
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr ""
+msgstr "강제 SuperGrafx 에뮬레이션(재시작 필요)"
 
 msgctxt "#30026"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "스프라이트 제한 해제"
 
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "CPU 오버클럭 배율 (재시작 필요)"
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "비디오"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "화면 자르기, 프레임 건너뛰기 등 기타 이미지 출력 매개변수를 구성합니다."
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "컴포지트는 원본 콘솔 출력을 재현하며 일부 게임에서 더 디테일하게 표시될 수 있습니다."
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
-msgstr ""
+msgstr "선호하는 컨텐츠 화면비를 선택합니다. 게임에서 256 모드와 352 모드 사이를 계속 전환하고 자동 종횡비를 사용할 경우 가로 너비를 342로 설정하여 256너비 모드로 발생하는 크기 조정과 여분의 검은 선을 최소화하는 것이 가장 좋습니다. (이러한 모드 사이를 전환하는 게임 중 하나인 Asuka 100%에서 테스트 하십시오)."
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "자동"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "표시할 최대 이미지 너비를 선택합니다. 값이 낮으면 이미지의 오른쪽이 잘립니다 (너비가 352픽셀인 게임의 경우)."
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (기본)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "첫 번째 렌더링 되는 스캔라인입니다. 값이 높으면 이미지 상단이 잘립니다."
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (기본)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "마지막으로 렌더링 되는 스캔라인입니다. 값이 높으면 이미지 하단이 잘립니다."
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (기본)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "입력"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "라이트 건, 마우스, 네지콘 입력 등을 설정합니다."
 
 msgctxt "#30041"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "값이 높을수록 마우스 커서가 더 빠르게 움직입니다."
 
 msgctxt "#30042"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "이 옵션을 활성화하면 왼쪽과 오른쪽 (또는 위쪽과 아래쪽) 방향 입력을 동시에 누르거나 빠르게 번갈아 누르는 것을 허용합니다. 이는 움직임 관련 버그를 일으킬 수 있습니다."
 
 msgctxt "#30043"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "RUN과 SELECT를 동시에 누르면 리셋하는 대신 두 버튼을 일시적으로 비활성화합니다."
 
 msgctxt "#30044"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "최대 5인까지 지원하는 멀티탭 에뮬레이션을 활성화합니다. 비활성화는 일부 경우에만 필요합니다(예: Cho Aniki)."
 
 msgctxt "#30045"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "포트 1 조이패드를 기본적으로 2개 또는 6개 버튼으로 할지 선택합니다. 이 옵션은 코어가 시작될 때만 적용되며, 콘텐츠가 실행 중일 때 전환하려면 '모드 전환' 버튼을 사용하세요. 참고: 6버튼 조이패드는 호환되지 않는 게임에서 이상한 동작을 일으킬 수 있습니다."
 
 msgctxt "#30046"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "포트 2 조이패드를 기본적으로 2개 또는 6개 버튼으로 할지 선택합니다. 이 옵션은 코어가 시작될 때만 적용되며, 콘텐츠가 실행 중일 때 전환하려면 '모드 전환' 버튼을 사용하세요. 참고: 6버튼 조이패드는 호환되지 않는 게임에서 이상한 동작을 일으킬 수 있습니다."
 
 msgctxt "#30047"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "포트 3 조이패드를 기본적으로 2개 또는 6개 버튼으로 할지 선택합니다. 이 옵션은 코어가 시작될 때만 적용되며, 콘텐츠가 실행 중일 때 전환하려면 '모드 전환' 버튼을 사용하세요. 참고: 6버튼 조이패드는 호환되지 않는 게임에서 이상한 동작을 일으킬 수 있습니다."
 
 msgctxt "#30048"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "포트 4 조이패드를 기본적으로 2개 또는 6개 버튼으로 할지 선택합니다. 이 옵션은 코어가 시작될 때만 적용되며, 콘텐츠가 실행 중일 때 전환하려면 '모드 전환' 버튼을 사용하세요. 참고: 6버튼 조이패드는 호환되지 않는 게임에서 이상한 동작을 일으킬 수 있습니다."
 
 msgctxt "#30049"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "포트 5 조이패드를 기본적으로 2개 또는 6개 버튼으로 할지 선택합니다. 이 옵션은 코어가 시작될 때만 적용되며, 콘텐츠가 실행 중일 때 전환하려면 '모드 전환' 버튼을 사용하세요. 참고: 6버튼 조이패드는 호환되지 않는 게임에서 이상한 동작을 일으킬 수 있습니다."
 
 msgctxt "#30050"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "터보 버튼을 활성화합니다. 핫키(버튼 III 및 IV)는 토글 스위치 또는 전용(길게 눌러 사용) 터보 버튼으로 작동할 수 있습니다."
 
 msgctxt "#30051"
 msgid "Toggle"
-msgstr ""
+msgstr "토글"
 
 msgctxt "#30052"
 msgid "Dedicated"
-msgstr ""
+msgstr "전용"
 
 msgctxt "#30053"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "레트로 패드의 L3/R3 버튼을 버튼 III 및 IV 대신 터보 핫키로 할당합니다. '토글' 모드에서 L3/R3 버튼에 아무 것도 할당되지 않은 경우에만 작동합니다. 이를 통해 6버튼 컨트롤러 모드로 전환할 때 버튼 III 및 IV를 다시 설정해야하는 것을 방지할 수 있습니다."
 
 msgctxt "#30054"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "터보 사이의 시간을 조정합니다 (프레임 단위)."
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "에뮬레이션 핵"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "성능과 호환성에 영향을 끼치는 프로세서 오버클러킹 및 에뮬레이션 정확도 옵션 등을 설정합니다."
 
 msgctxt "#30057"
 msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."
-msgstr ""
+msgstr "홈브류 게임을 실행하거나 SuperGrafx 모드에서 실행되지 않는 게임 (예: Space Harrier)를 제외하는데 유용합니다. 상태 저장은 각각의 모드와 호환되지 않습니다. 필요한 경우가 아니면 이 옵션을 해제하는 것이 좋습니다. 알려진 SuperGrafx 게임 (예: Dai-Makaimura, Aldyns)은 이 옵션과 상관없이 자동으로 SuperGrafx로 전환됩니다."
 
 msgctxt "#30058"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "스캔라인 당 16개의 스프라이트 하드웨어 제한을 제거합니다. 경고: 일부 게임에서 그래픽 결함이 발생할 수 있습니다."
 
 msgctxt "#30059"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "값이 높을수록 게임의 속도 저하를 줄일 수 있습니다. 경고: 결함 및 충돌이 발생할 수 있습니다."
 
 msgctxt "#30060"
 msgid "CD"
@@ -267,27 +267,27 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Configure settings related to CD games."
-msgstr ""
+msgstr "CD 게임 관련된 설정을 구성합니다."
 
 msgctxt "#30062"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "시작할 때 전체 이미지를 메모리에 불러옵니다. 시작 시간이 늘어나는 대신 로딩 시간을 잠재적으로 줄일 수 있습니다."
 
 msgctxt "#30063"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "대부분의 게임은 'System Card 3'에서 실행할 수 있습니다. 'Games Express'는 라이선스가 없는 게임에서 필요합니다."
 
 msgctxt "#30064"
 msgid "Automatically load the Games Express BIOS regardless of CD BIOS setting when loading Games Express CD games."
-msgstr ""
+msgstr "Games Express CD 게임을 불러올 때 CD BIOS 설정에 관계없이 Games Express BIOS를 자동으로 불러옵니다."
 
 msgctxt "#30065"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "값이 높을수록 로딩 시간이 빨라지지만 몇 가지 게임에서 문제가 발생할 수 있습니다."
 
 msgctxt "#30066"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "CD 게임에 해당합니다. 볼륨을 너무 높게 설정하면 샘플 클리핑이 발생할 수 있습니다."
 
 msgctxt "#30067"
 msgid "6:5"

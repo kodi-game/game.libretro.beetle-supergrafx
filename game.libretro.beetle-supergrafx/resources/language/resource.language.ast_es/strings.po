@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -51,7 +51,7 @@ msgstr "Sensibilidá del mur"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permitir les direiciones opuestes"
 
 msgctxt "#30008"
 msgid "Disable Soft Reset (RUN+SELECT)"
@@ -123,7 +123,7 @@ msgstr ""
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr ""
+msgstr "Forciar la emulación de SuperGrafx (ye obligatorio reaniciar)"
 
 msgctxt "#30026"
 msgid "No Sprite Limit"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -143,7 +143,7 @@ msgstr ""
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "El videu compuestu tenta de recrear la salida orixinal de la consola y pue amosar más detalles en dalgunos xuegos."
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (por defeutu)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (por defeutu)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -175,11 +175,11 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (por defeutu)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
@@ -243,7 +243,7 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."

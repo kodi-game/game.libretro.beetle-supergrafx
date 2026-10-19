@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Rasio Aspek"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -47,7 +47,7 @@ msgstr ""
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
-msgstr "Sensitifitas Mouse"
+msgstr "Sensivitas Mouse"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
@@ -91,19 +91,19 @@ msgstr ""
 
 msgctxt "#30017"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Tundaan Turbo"
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Tembolok Citra CD (Perlu Mulai Ulang)"
 
 msgctxt "#30019"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS CD (Perlu Mulai Ulang)"
 
 msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
-msgstr ""
+msgstr "Deteksikan CD Games Express (Perlu Mulai Ulang)"
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
@@ -123,7 +123,7 @@ msgstr ""
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr ""
+msgstr "Paksa Emulasi SuperGrafx (Perlu Mulai Ulang)"
 
 msgctxt "#30026"
 msgid "No Sprite Limit"
@@ -131,7 +131,7 @@ msgstr ""
 
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Pengali Overclock CPU (Perlu Mulai Ulang)"
 
 msgctxt "#30028"
 msgid "Video"
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "Otomatis"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Masukan"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
@@ -239,11 +239,11 @@ msgstr ""
 
 msgctxt "#30054"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Menyesuaikan waktu antara tekan turbo (sejumlah bingkai)."
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Peretasan Emulasi"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
@@ -255,7 +255,7 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Melepas batas 16 sprite tiap garis pindai peranti keras. PERINGATAN: Beberapa permainan akan kacau grafis."
 
 msgctxt "#30059"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."

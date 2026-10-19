@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "יחס גובה-רוחב"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "וידאו"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "קלט"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."

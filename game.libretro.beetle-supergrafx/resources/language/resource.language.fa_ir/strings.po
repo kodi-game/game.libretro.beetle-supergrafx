@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "نسبت تصویر"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "ویدیو"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -179,7 +179,7 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "داده"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."

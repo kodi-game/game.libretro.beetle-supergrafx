@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Proporção do ecrã"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
@@ -95,11 +95,11 @@ msgstr ""
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Cache da Imagem do CD (Reinicialização necessária)"
 
 msgctxt "#30019"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "BIOS do CD (Reinicialização necessária)"
 
 msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
@@ -107,7 +107,7 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Velocidade do CD"
 
 msgctxt "#30022"
 msgid "(CD) ADPCM Volume %"
@@ -135,7 +135,7 @@ msgstr ""
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
@@ -151,7 +151,7 @@ msgstr ""
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "Automático"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
@@ -159,7 +159,7 @@ msgstr ""
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (Padrão)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Padrão)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -175,11 +175,11 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Padrão)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."

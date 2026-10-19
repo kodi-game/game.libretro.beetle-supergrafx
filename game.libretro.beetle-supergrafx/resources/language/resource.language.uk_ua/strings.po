@@ -27,239 +27,239 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Кольорова палітра"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Співвідношення сторін"
 
 msgctxt "#30003"
 msgid "Horizontal Overscan (352 Width Mode Only)"
-msgstr ""
+msgstr "Горизонтальна розгортка (тільки в режимі ширини 352)"
 
 msgctxt "#30004"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Початковий аналіз"
 
 msgctxt "#30005"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Останній рядок сканування"
 
 msgctxt "#30006"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Чутливість миші"
 
 msgctxt "#30007"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Дозволити протилежні напрямки"
 
 msgctxt "#30008"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Вимкнути програмне скидання (РУХ+ВИБІР)"
 
 msgctxt "#30009"
 msgid "Multitap 5-port Controller"
-msgstr ""
+msgstr "Multitap контролер портів 5"
 
 msgctxt "#30010"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "P1 типовий тип Jypad"
 
 msgctxt "#30011"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "P2 за замовчуванням Jypad тип"
 
 msgctxt "#30012"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "P3 за замовчуванням Jypad тип"
 
 msgctxt "#30013"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "Тип Jypad P4 за замовчуванням"
 
 msgctxt "#30014"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "P5 за замовчуванням Jypad тип"
 
 msgctxt "#30015"
 msgid "Turbo Hotkey Mode"
-msgstr ""
+msgstr "Турборежим гарячих клавіш"
 
 msgctxt "#30016"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Альтернативні турбокнопки"
 
 msgctxt "#30017"
 msgid "Turbo Delay"
-msgstr ""
+msgstr "Затримка Турбо"
 
 msgctxt "#30018"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Кеш образу CD (потрібен перезапуск)"
 
 msgctxt "#30019"
 msgid "CD BIOS (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (потрібен перезапуск)"
 
 msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
-msgstr ""
+msgstr "Виявляти експрес ігри CD (необхідно перезапустити)"
 
 msgctxt "#30021"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Швидкість CD"
 
 msgctxt "#30022"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) Гучність CDDA %"
 
 msgctxt "#30023"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) Гучність CDDA %"
 
 msgctxt "#30024"
 msgid "(CD) PSG Volume %"
-msgstr ""
+msgstr "(CD) Гучність PSG %"
 
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
-msgstr ""
+msgstr "Примусова емуляція SuperGrafx (потрібен перезапуск)"
 
 msgctxt "#30026"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Ліміт спрайтів немає"
 
 msgctxt "#30027"
 msgid "CPU Overclock Multiplier (Restart Required)"
-msgstr ""
+msgstr "Мультиплікатор процесора (потрібен перезапуск)"
 
 msgctxt "#30028"
 msgid "Video"
-msgstr ""
+msgstr "Відео"
 
 msgctxt "#30029"
 msgid "Configure display cropping, frame skipping and other image output parameters."
-msgstr ""
+msgstr "Налаштувати обрізання екрану, пропуску кадрів та інших параметрів зображення."
 
 msgctxt "#30030"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Композитний намагається відтворити оригінальний вивід консолі та може показати більше деталей у деяких іграх."
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
-msgstr ""
+msgstr "Виберіть бажане співвідношення сторін контенту. Під час використання ігор, які постійно перемикаються між режимами 256 і 352 і використовують автоматичний формат, найкраще встановити ширину по горизонталі на 342, щоб мінімізувати зміну розміру та додаткові чорні лінії, оскільки ця ширина відповідає режиму ширини 256 (або щось подібне, просто перевірте з Asuka 100%, яка є однією з ігор, які перемикаються між цими режимами)."
 
 msgctxt "#30032"
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgctxt "#30033"
 msgid "Choose the maximum image width to be displayed. Lower values will crop the right side of the image (for 352 px width games)."
-msgstr ""
+msgstr "Виберіть максимальну ширину зображення, яку слід показувати. Менші значення будуть обрізати праву частину зображення (для ігор шириною 352 пікселі)."
 
 msgctxt "#30034"
 msgid "352 (Default)"
-msgstr ""
+msgstr "352 (за замовчуванням)"
 
 msgctxt "#30035"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Перший рендеринговий сканер. Вищі значення будуть обрізати верхній частині зображення."
 
 msgctxt "#30036"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (за замовчуванням)"
 
 msgctxt "#30037"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Остання візуальна сканера. Менші значення будуть обрізати нижній частині зображення."
 
 msgctxt "#30038"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (за замовчуванням)"
 
 msgctxt "#30039"
 msgid "Input"
-msgstr ""
+msgstr "Ввід"
 
 msgctxt "#30040"
 msgid "Configure light gun, mouse and NegCon input."
-msgstr ""
+msgstr "Налаштування світлового пістолета, миші та NegCon."
 
 msgctxt "#30041"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Великі значення змусять курсор миші рухатися швидше."
 
 msgctxt "#30042"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Увімкнення цього дозволить одночасно натискати / швидко чергувати/утримувати одночасно ліворуч та праворуч (чи донизу) напрямки. Це може спричинити глітчі руху."
 
 msgctxt "#30043"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Коли РУХ та ВИБІР одночасно натиснуто, тимчасово вимкнуться обидві кнопки замість скидання."
 
 msgctxt "#30044"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "Увімкнути до мультитільної емуляції 5-плеєра. Вимкнення потрібно лише в деяких випадках (наприклад, Cho Aniki)."
 
 msgctxt "#30045"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 1 joypad має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30046"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 2 джойпада має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30047"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 3 джойпада має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30048"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Оберіть, якщо порт 4 джойпада має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30049"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Виберіть, якщо порт 5 джойпідів має бути 2 або 6 кнопок за замовчуванням. Цей параметр застосовується тільки тоді, коли запущено ядро, якщо ви хочете перемкнутися під час роботи вмісту, використовуйте кнопку 'Перемикач режиму'. ПРИМІТКА: 6 кнопок joypad може мати дивну поведінку в несумісних іграх."
 
 msgctxt "#30050"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "Увімкнути турбокнопки. Гарячі клавіші (кнопки III та IV) можуть поводити себе як перемикачі або виділені (утримування) турбокнопки."
 
 msgctxt "#30051"
 msgid "Toggle"
-msgstr ""
+msgstr "Перемикач"
 
 msgctxt "#30052"
 msgid "Dedicated"
-msgstr ""
+msgstr "Виділений"
 
 msgctxt "#30053"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Призначити кнопки RetroPad's L3/R3 як комбінації клавіш turbo замість кнопок III і IV. Працює тільки в режимі \"Увімкнути\" і тільки до тих пір, поки нічого не призначається на кнопку L3/R3. Ви можете уникнути перерахування кнопок III і IV при перемиканні в режим контролю 6-кнопки."
 
 msgctxt "#30054"
 msgid "Adjust the time between turbo fire (in frames)."
-msgstr ""
+msgstr "Налаштуйте час між заводовим вогнем (у кадрах)."
 
 msgctxt "#30055"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Гаки емуляції"
 
 msgctxt "#30056"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Налаштування розгону процесора та точності емуляції, що впливають на низькорівневу продуктивність та сумісність."
 
 msgctxt "#30057"
 msgid "This is helpful to run homebrew games or to isolate games that will not run in SuperGrafx mode (like Space Harrier). Save states are not compatible with each mode. It's better to leave this option off unless needed. Known SuperGrafx games (like Dai-Makaimura, Aldyns) will automatically switch to SuperGrafx regardless of this option."
-msgstr ""
+msgstr "Це корисно для запуску ігор homebrew або ізоляції ігор, які не будуть запускатися у режимі SuperGrafx (як Космічна Гаррера). Зберегти області не сумісні з кожним режимом. Краще залишити цю опцію якщо це не потрібно. Ігри Dotn SuperGrafx (наприклад, Dai-Makaimura, Aldyns) автоматично перемкнуться на SuperGrafx незалежно від цього параметру."
 
 msgctxt "#30058"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games."
-msgstr ""
+msgstr "Видалення апаратного обмеження 16-спрайтів по сканеру. УВАГА: Може призвести до зміщення графіки в деяких іграх."
 
 msgctxt "#30059"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Вищі значення можуть зменшити уповільнення ігор. УВАГА: можуть призвести до збоїв та аварій."
 
 msgctxt "#30060"
 msgid "CD"
@@ -267,27 +267,27 @@ msgstr ""
 
 msgctxt "#30061"
 msgid "Configure settings related to CD games."
-msgstr ""
+msgstr "Налаштуйте параметри, пов’язані з іграми на компакт-дисках."
 
 msgctxt "#30062"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Завантажувати повне зображення в пам'ять під час запуску. Може зменшувати час завантаження за рахунок збільшення часу запуску."
 
 msgctxt "#30063"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Більшість ігор може складатися на 'Системній карті 3'. 'Ігри Express' потрібно для декількох неліцензійних ігор."
 
 msgctxt "#30064"
 msgid "Automatically load the Games Express BIOS regardless of CD BIOS setting when loading Games Express CD games."
-msgstr ""
+msgstr "Автоматично завантажувати Ігри експрес BIOS незалежно від налаштувань CD BIOS під час завантаження ігор Express CD ігор."
 
 msgctxt "#30065"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Більші значення активують швидше завантаження, але можуть викликати проблеми з кількома іграми."
 
 msgctxt "#30066"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Гра CD тільки встановили цей контроль гучності занадто високо може викликати обрізання вибірки."
 
 msgctxt "#30067"
 msgid "6:5"
