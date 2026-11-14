@@ -412,7 +412,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="sgx_cdspeed" type="string" label="30021" help="30065">
+				<setting id="sgx_cdspeed" type="string" label="30169" help="30065">
 					<level>0</level>
 					<default>1</default>
 					<constraints>
@@ -425,7 +425,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="sgx_adpcmvolume" type="string" label="30022" help="30066">
+				<setting id="sgx_adpcmvolume" type="string" label="30170" help="30066">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -455,7 +455,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="sgx_cddavolume" type="string" label="30023" help="30066">
+				<setting id="sgx_cddavolume" type="string" label="30171" help="30066">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -485,7 +485,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="sgx_cdpsgvolume" type="string" label="30024" help="30066">
+				<setting id="sgx_cdpsgvolume" type="string" label="30172" help="30066">
 					<level>0</level>
 					<default>100</default>
 					<constraints>

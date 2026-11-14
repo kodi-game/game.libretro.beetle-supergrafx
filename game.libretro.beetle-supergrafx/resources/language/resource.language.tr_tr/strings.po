@@ -105,22 +105,6 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr "Games Express CD Algıla (Yeniden Başlatılmalı)"
 
-msgctxt "#30021"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD Hızı"
-
-msgctxt "#30022"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Ses Seviyesi %"
-
-msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Ses Seviyesi %"
-
-msgctxt "#30024"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG Ses Seviyesi %"
-
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr "SuperGrafx Taklidine Zorla (Yeniden Başlatılmalı)"
@@ -696,3 +680,35 @@ msgstr ""
 msgctxt "#30168"
 msgid "241"
 msgstr ""
+
+msgctxt "#30169"
+msgid "CD Speed"
+msgstr "CD Hızı"
+
+msgctxt "#30170"
+msgid "ADPCM Volume %"
+msgstr "ADPCM Ses Seviyesi %"
+
+msgctxt "#30171"
+msgid "CDDA Volume %"
+msgstr "CDDA Ses Seviyesi %"
+
+msgctxt "#30172"
+msgid "CD PSG Volume %"
+msgstr "CD PSG Ses Seviyesi %"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD Hızı"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Ses Seviyesi %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Ses Seviyesi %"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG Ses Seviyesi %"

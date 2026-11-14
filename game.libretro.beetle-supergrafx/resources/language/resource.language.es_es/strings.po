@@ -105,22 +105,6 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr "Detectar CD Games Express (Reinicio Requerido)"
 
-msgctxt "#30021"
-msgid "(CD) CD Speed"
-msgstr "(CD) Velocidad de CD"
-
-msgctxt "#30022"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Volumen ADPCM %"
-
-msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Volumen de CDDA (%)"
-
-msgctxt "#30024"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) Volumen del PSG (%)"
-
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr "Forzar emulación de SuperGrafx (es necesario reiniciar)"
@@ -696,6 +680,38 @@ msgstr ""
 msgctxt "#30168"
 msgid "241"
 msgstr ""
+
+msgctxt "#30169"
+msgid "CD Speed"
+msgstr "Velocidad del CD"
+
+msgctxt "#30170"
+msgid "ADPCM Volume %"
+msgstr "Volumen de ADPCM (%)"
+
+msgctxt "#30171"
+msgid "CDDA Volume %"
+msgstr "Volumen de CDDA (%)"
+
+msgctxt "#30172"
+msgid "CD PSG Volume %"
+msgstr "Volumen del PSG de CD (%)"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Velocidad de CD"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Volumen ADPCM %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Volumen de CDDA (%)"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) Volumen del PSG (%)"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

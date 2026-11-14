@@ -105,22 +105,6 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr "Identifiera Games Express CD-skivor (Omstart krävs)"
 
-msgctxt "#30021"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD-hastighet"
-
-msgctxt "#30022"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Volym %"
-
-msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Volym %"
-
-msgctxt "#30024"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG Volym %"
-
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr "Tvinga SuperGrafx-emulering (Omstart Krävs)"
@@ -147,7 +131,7 @@ msgstr "Composite försöker återskapa den ursprungliga konsolens utmatning och
 
 msgctxt "#30031"
 msgid "Choose the preferred content aspect ratio. When using games that constantly switch between 256 and 352 modes and using auto aspect, it's best to set the horizontal width to 342 to minimize resizing and extra black lines since this width is in ratio of 256 width mode (or something like that, just test with Asuka 100% which is one of the games that switch between these modes)."
-msgstr "Välj föredraget bildformat för innehåll. När du använder spel som ständigt växlar mellan 256- och 352-läge och använder automatiskt bildformat är det bäst att ställa den horisontella bredden till 342 för att minimera omformatering och extra svarta linjer, eftersom denna bredd är i förhållande till 256-breddsläge (eller något liknande; testa med Asuka 100 %, som är ett av spelen som växlar mellan dessa lägen)."
+msgstr "Välj föredraget bildformat för innehåll. När du använder spel som ständigt växlar mellan 256- och 352-läge och använder auto-aspekt är det bäst att ställa den horisontella bredden till 342 för att minimera omformatering och extra svarta linjer, eftersom denna bredd är i förhållande till 256 breddläge (eller något liknande, testa med Asuka 100% som är ett av spelen som växlar mellan dessa lägen)."
 
 msgctxt "#30032"
 msgid "Auto"
@@ -235,7 +219,7 @@ msgstr "Dedikerad"
 
 msgctxt "#30053"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr "Tilldela RetroPads L3/R3-knappar som snabbtangenter för turbo-läge i stället för knappar III och IV. Fungerar endast i ”Växel”-läget och endast så länge inget är tilldelat L3/R3-knapparna. Du kan undvika omkartläggning av knappar III och IV när du växlar till sexknappsläge med detta."
+msgstr "Tilldela RetroPads L3/R3-knappar som snabbtangenter för turbo-läge istället för knappar III och IV. Fungerar endast i \"Växel\"-läget och endast så länge inget är tilldelat L3/R3-knapparna. Du kan undvika omkartläggning av knappar III och IV när du växlar till 6-knapps kontrollläge med detta."
 
 msgctxt "#30054"
 msgid "Adjust the time between turbo fire (in frames)."
@@ -696,6 +680,38 @@ msgstr "240"
 msgctxt "#30168"
 msgid "241"
 msgstr "241"
+
+msgctxt "#30169"
+msgid "CD Speed"
+msgstr "CD-hastighet"
+
+msgctxt "#30170"
+msgid "ADPCM Volume %"
+msgstr "Volym för ADPCM %"
+
+msgctxt "#30171"
+msgid "CDDA Volume %"
+msgstr "Volym för CDDA %"
+
+msgctxt "#30172"
+msgid "CD PSG Volume %"
+msgstr "Volym för CD PSG %"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-hastighet"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Volym %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Volym %"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG Volym %"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

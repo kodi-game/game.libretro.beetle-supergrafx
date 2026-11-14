@@ -105,22 +105,6 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr ""
 
-msgctxt "#30021"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD rýchlosť"
-
-msgctxt "#30022"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM hlasitosť %"
-
-msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA hlasitosť %"
-
-msgctxt "#30024"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG hlasitosť %"
-
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr ""
@@ -696,3 +680,35 @@ msgstr ""
 msgctxt "#30168"
 msgid "241"
 msgstr ""
+
+msgctxt "#30169"
+msgid "CD Speed"
+msgstr "CD rýchlosť"
+
+msgctxt "#30170"
+msgid "ADPCM Volume %"
+msgstr "ADPCM hlasitosť %"
+
+msgctxt "#30171"
+msgid "CDDA Volume %"
+msgstr "CDDA hlasitosť %"
+
+msgctxt "#30172"
+msgid "CD PSG Volume %"
+msgstr "CD PSG hlasitosť %"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD rýchlosť"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM hlasitosť %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA hlasitosť %"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG hlasitosť %"

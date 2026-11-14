@@ -105,22 +105,6 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr "检测到 Games Express 光盘（需重启）"
 
-msgctxt "#30021"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD 速度"
-
-msgctxt "#30022"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM 音量 %"
-
-msgctxt "#30023"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA 音量百分比"
-
-msgctxt "#30024"
-msgid "(CD) PSG Volume %"
-msgstr "(CD) PSG 音量百分比"
-
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr "强制 SuperGrafx 仿真（需要重新启动）"
@@ -696,6 +680,38 @@ msgstr ""
 msgctxt "#30168"
 msgid "241"
 msgstr ""
+
+msgctxt "#30169"
+msgid "CD Speed"
+msgstr "CD 加载速度"
+
+msgctxt "#30170"
+msgid "ADPCM Volume %"
+msgstr "ADPCM 音量百分比"
+
+msgctxt "#30171"
+msgid "CDDA Volume %"
+msgstr "CDDA 音量百分比"
+
+msgctxt "#30172"
+msgid "CD PSG Volume %"
+msgstr "PSG 音量百分比"
+
+#~ msgctxt "#30021"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD 速度"
+
+#~ msgctxt "#30022"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM 音量 %"
+
+#~ msgctxt "#30023"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA 音量百分比"
+
+#~ msgctxt "#30024"
+#~ msgid "(CD) PSG Volume %"
+#~ msgstr "(CD) PSG 音量百分比"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
