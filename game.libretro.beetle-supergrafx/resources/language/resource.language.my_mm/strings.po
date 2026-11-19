@@ -105,6 +105,22 @@ msgctxt "#30020"
 msgid "Detect Games Express CD (Restart Required)"
 msgstr ""
 
+msgctxt "#30021"
+msgid "(CD) CD Speed"
+msgstr ""
+
+msgctxt "#30022"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30023"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30024"
+msgid "(CD) PSG Volume %"
+msgstr ""
+
 msgctxt "#30025"
 msgid "Force SuperGrafx Emulation (Restart Required)"
 msgstr ""
